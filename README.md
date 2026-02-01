@@ -5,6 +5,8 @@ Thus far, one of the most effective testing/learning mechanisms for me, is first
 
 I have HUGE concerns about accuracy, repeatability, privacy/security, and quantifiable efficiancies. So, I present to you some sample, "test" case data for review, upload, analysis, prompt testing/refinement, etc. 
 
+Go [HERE](https://github.com/secure-cake/rapid-endpoint-investigations/wiki/Rapid-Endpoint-Investigations-%E2%80%90-Wiki-Home) if you want to review my rapid-triage workflow!
+
 ## Case 1 Win11
 The [Case1](https://github.com/secure-cake/rtw-test-data/blob/main/Case1-Windows-KAPE-and-RTW.7z) zip file contains raw rapid-triage artifacts, as well as KAPE-processed artifacts. Additionally, the [SPOILERS](https://github.com/secure-cake/rtw-test-data/blob/main/Case1-Win11-SPOILERS.7z) zip contains a bunch of pre-identified artifacts so you can "cheat!" Review, understand the case and contents, then upload discrete artifacts to your AI of choice, test prompts, review accuracy/output, refine, repeat!
 
